@@ -1,4 +1,4 @@
-Hi, I’m @Shehan9221 👋
+Hi, I’m @Shehan 👋
   👀 Interested in AI, Medical Imaging, and Radiography
   🌱 Currently learning AI, Machine Learning, and Radiography
   💡 Exploring the intersection of AI and Medical Imaging
